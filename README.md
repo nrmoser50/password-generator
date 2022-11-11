@@ -1,3 +1,7 @@
+**I followed this video for this week's challenge:
+
+https://www.youtube.com/watch?v=JheVaV6bPvE
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
